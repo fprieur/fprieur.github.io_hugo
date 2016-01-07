@@ -1,0 +1,13 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://fprieur.github.io/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "cactus"
+
+copyright: "Fred Prieur"
+...
